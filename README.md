@@ -12,3 +12,4 @@ I'm going to learn the following tech stack:
 2. JAVASCRIPT
 4. CHALK
 
+[Link to the website](https://sushmaeshwarappa.netlify.app/)
